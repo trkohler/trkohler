@@ -1,6 +1,6 @@
 Engineer ✌️ <br/><br/>
 My main areas of interest: 
 * IoT 
-* biotechnology
+* biotechnology and bioinformatics
 * machine learning.
 
