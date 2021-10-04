@@ -2,6 +2,6 @@
 
 🐍 I work on back-end of the one of the biggest ecommerce project in Ukraine
 
-🪙 I'm currently learning Quant Trading, Machine Learning & Distributed Systems
+🪙 I'm currently learning Blockchain & Rust
 
 🎓 NTUU KPI Alumnus
