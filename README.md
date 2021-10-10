@@ -5,3 +5,13 @@
 🪙 I'm currently into Creative Coding & Distributed Systems.
 
 🎓 NTUU KPI Alumnus
+
+You may see me...
+
+- on YouTube, discussing things on Tech Industry
+- coding while listening Tron & Dune soundtracks
+- reading weird books
+- doing some math, preparing to my exams
+- traveling alone
+
+Don't be shy, come say hi.
