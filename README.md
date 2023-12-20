@@ -1,5 +1,6 @@
-GraphQL & Edge Routing Platforms @ Zalando.
-Do Berlin GraphQL.
-Help source speakers for Rust Ukraine conference.
+GraphQL & Edge Routing Platforms @ Zalando.  
 
-[![@trkohler's Holopin board](https://holopin.io/api/user/board?user=trkohler)](https://holopin.io/@trkohler)
+Do Berlin GraphQL.  
+
+Help source speakers for Rust Ukraine conference.  
+
